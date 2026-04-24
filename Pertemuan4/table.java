@@ -8,7 +8,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Anisa Zahra Zahira
+ * @author Annisa Zahra Zahira
  */
 public class table extends javax.swing.JFrame {
     DefaultTableModel model;
