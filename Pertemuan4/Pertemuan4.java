@@ -6,7 +6,7 @@ package pertemuan4;
 
 /**
  *
- * @author Anisa Zahra Zahira
+ * @author Annisa Zahra Zahira
  */
 public class Pertemuan4 {
 
